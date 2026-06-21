@@ -5,7 +5,13 @@ Welcome to my professional portfolio.
 
 ## About
 
-I'm an Informatics student at Indiana University focused on Cloud Engineering, AWS Architecture, DevSecOps, and Cloud Consulting.
+I'm an Informatics student at Indiana University focused on Cloud Engineering, AWS Architecture, DevSecOps.
+
+- 🔭 I’m currently working on AWS Certified Cloud Practitioner
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with beginning roadmaps 
+- 📫 How to reach me: linkedn
+- 😄 Pronouns: he/him
 
 ## Current Focus
 
@@ -38,12 +44,12 @@ This portfolio will grow throughout my degree as I complete projects, earn certi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on AWS Certified Cloud Practitioner
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with beginning roadmaps 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: linkedn
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
 -->
