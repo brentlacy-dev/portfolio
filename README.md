@@ -1,6 +1,7 @@
 ## Hi there 👋
 # Brent Lacy Portfolio
-<img width="800" height="800" alt="33471EA3-1A68-4B8E-9D1F-922C0732D724" src="https://github.com/user-attachments/assets/bd4ce6e5-aa20-4e18-96c8-d8f275a15576" />
+<img width="100" height="100" alt="33471EA3-1A68-4B8E-9D1F-922C0732D724" src="https://github.com/user-attachments/assets/bd4ce6e5-aa20-4e18-96c8-d8f275a15576" />
+
 Welcome to my professional portfolio.
 
 ## About
