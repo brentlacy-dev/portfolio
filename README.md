@@ -6,7 +6,7 @@ Welcome to my professional portfolio.
 
 ## About
 
-I'm an Informatics student at Indiana University focused on Cloud Engineering, AWS Architecture, DevSecOps.
+I'm an Informatics student at Indiana University focused on Cloud Engineering, AWS Architecture, DevSecOps, Cloud Consultant.
 - 🔭 I’m currently working on AWS Certified Cloud Practitioner
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with beginning roadmaps 
