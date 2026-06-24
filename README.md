@@ -1,55 +1,85 @@
-## Hi there 👋
-# Brent Lacy Portfolio
-<img width="100" height="100" alt="33471EA3-1A68-4B8E-9D1F-922C0732D724" src="https://github.com/user-attachments/assets/bd4ce6e5-aa20-4e18-96c8-d8f275a15576" />
+# 👋 Hi, I'm Brent Lacy
 
-Welcome to my professional portfolio.
+<img width="100" height="100" alt="Brent Lacy Logo" src="https://github.com/user-attachments/assets/bd4ce6e5-aa20-4e18-96c8-d8f275a15576" />
 
-## About
+Welcome to my GitHub! I'm an **Informatics student at Indiana University** focused on **Cloud Engineering, AWS Architecture, Cloud Security, and Cloud Consulting**. I build projects from scratch to strengthen my programming skills while documenting my journey toward becoming a cloud engineer.
 
-I'm an Informatics student at Indiana University focused on Cloud Engineering, AWS Architecture, DevSecOps, Cloud Consultant.
-- 🔭 I’m currently working on AWS Certified Cloud Practitioner
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with beginning roadmaps 
-- 📫 How to reach me: linkedn
-- 😄 Pronouns: he/him
+---
 
 ## Current Focus
 
-- Python
-- Linux
-- Git & GitHub
-- AWS Cloud
-- Networking
+- AWS Certified Cloud Practitioner
+- Learning Python
+- Linux Administration
+- Cloud Engineering
+- Git & GitHub Best Practices
+
+---
 
 ## Technologies
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Python
 - Linux
+- Git & GitHub
 - AWS
-- Git
 
-## Website
+---
 
-https://brentlacy.dev
+# Featured Projects
 
-## Roadmap
+## 🧮 Calculator
 
-This portfolio will grow throughout my degree as I complete projects, earn certifications, and gain real-world experience.
+A responsive calculator application built from scratch using HTML, CSS, and JavaScript. Supports standard arithmetic operations with a clean, user-friendly interface.
 
-<!--
-**brentlacy-dev/brentlacy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills:** HTML • CSS • JavaScript • DOM Manipulation • Event Handling
 
-Here are some ideas to get you started:
+Repository: https://github.com/brentlacy-dev/calculator-api
 
-- 🔭 I’m currently working on AWS Certified Cloud Practitioner
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with beginning roadmaps 
-- 💬 Ask me about ...
-- 📫 How to reach me: linkedn
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 
--->
+---
+
+## 📝 To-Do List
+
+A responsive task management application built from scratch using HTML, CSS, and JavaScript. Tasks are stored locally using the browser's Local Storage API.
+
+**Skills:** HTML • CSS • JavaScript • DOM Manipulation • Local Storage • Git
+
+Repository: https://github.com/brentlacy-dev/To-do-list
+
+---
+
+## 🌦️ Weather Dashboard
+
+A weather application that retrieves real-time weather information using a public weather API and displays current conditions in a responsive interface.
+
+**Skills:** HTML • CSS • JavaScript • APIs • JSON
+
+Repository: (https://github.com/brentlacy-dev/weather-app)
+
+---
+
+## 🌐 Portfolio
+
+**Website:** https://brentlacy.dev
+
+---
+
+## 2026 Learning Roadmap
+
+- ✅ Build responsive web applications
+- ✅ Strengthen JavaScript fundamentals
+- 🔄 Master Python
+- 🔄 Earn AWS Cloud Practitioner
+- 🔄 Learn Docker & Kubernetes
+- 🔄 Build cloud-based projects
+- 🔄 Complete Freshman Year for B.S. in Informatics at Indiana University
+
+---
+
+## Connect With Me
+
+- Website: https://brentlacy.dev
+- LinkedIn: www.linkedin.com/in/brentlacydev
+
